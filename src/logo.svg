@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595 842">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2a4b9b;
+        font-family: BrushScriptMT, 'Brush Script MT';
+      }
+
+      .cls-2 {
+        letter-spacing: .01em;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 160px;
+      }
+
+      .cls-4 {
+        font-size: 190px;
+        letter-spacing: .01em;
+      }
+
+      .cls-3 {
+        letter-spacing: .07em;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(223.24 480.37) rotate(-90)"><tspan class="cls-4"><tspan x="0" y="0">P</tspan></tspan><tspan class="cls-2"><tspan x="-161.75" y="129">Phisical </tspan></tspan><tspan class="cls-3"><tspan x="-166.04" y="258">therapy</tspan></tspan></text>
+</svg>
